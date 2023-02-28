@@ -65,7 +65,7 @@ function Header({ navigation }) {
         <Link href="/" aria-label="Home page"></Link>
       </div>
       <div className="-my-5 mr-6 sm:mr-8 md:mr-0">
-        <Search />
+        
       </div>
       <div className="relative flex basis-0 justify-end gap-6 sm:gap-8 md:flex-grow">
         <ThemeSelector className="relative z-10" />
